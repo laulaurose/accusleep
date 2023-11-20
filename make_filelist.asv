@@ -1,0 +1,23 @@
+
+
+clear all; 
+clc; 
+
+addpath(genpath("/Users/qgf169/Documents/MATLAB/AccuSleep/"))
+addpath(genpath("/Volumes/SAMSUNG/Validation study/AccuSleep/Data/"))
+I = dir("/Volumes/SAMSUNG/Validation study/AccuSleep/Data/4-hour_recordings/Mouse*");
+
+for k = 1:length(I)
+    
+    subf = dir(strcat(I(k).folder,"/",I(k).name,"/Da*"));
+
+    for j = 1:length(subf)-2
+        tempcell{j,1} = strcat(subf(1).folder,"/",subf(j).name,"/EEG.mat");
+        tempcell{j,2} = strcat(subf(1).folder,"/",subf(j).name,"/EMG.mat");
+        tempcell{j,3} = strcat(subf(1).folder,"/",subf(j).name,"/labels.mat");
+    end
+
+
+    fileList{k:k*3,1} = tempcell
+
+end

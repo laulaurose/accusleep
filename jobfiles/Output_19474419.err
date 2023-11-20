@@ -1,0 +1,6 @@
+Loaded module: matlab/R2022a
+{Undefined function 'createSpectrogram' for input arguments of type 'double'.
+
+Error in AccuSleep_train (line 95)
+    [s, ~, f] = createSpectrogram(data.a.EEG, SR, epochLen);
+} 

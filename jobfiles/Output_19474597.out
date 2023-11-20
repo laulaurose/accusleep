@@ -1,0 +1,227 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022a (9.12.0.1884302) 64-bit (glnxa64)
+                             February 16, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> 
+imageLocation =
+
+    '/work3/laurose/accusleep/data_preprocessed/'
+
+>> >> >> Processing 30 files (this may take a while)
+/work3/laurose/accusleep/data/Mouse01/Day1/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 1
+/work3/laurose/accusleep/data/Mouse01/Day2/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 2
+/work3/laurose/accusleep/data/Mouse01/Day3/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 3
+/work3/laurose/accusleep/data/Mouse02/Day1/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 4
+/work3/laurose/accusleep/data/Mouse02/Day2/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 5
+/work3/laurose/accusleep/data/Mouse02/Day3/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 6
+/work3/laurose/accusleep/data/Mouse03/Day1/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 7
+/work3/laurose/accusleep/data/Mouse03/Day2/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 8
+/work3/laurose/accusleep/data/Mouse03/Day3/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 9
+/work3/laurose/accusleep/data/Mouse04/Day1/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 10
+/work3/laurose/accusleep/data/Mouse04/Day2/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 11
+/work3/laurose/accusleep/data/Mouse04/Day3/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 12
+/work3/laurose/accusleep/data/Mouse05/Day1/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 13
+/work3/laurose/accusleep/data/Mouse05/Day2/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 14
+/work3/laurose/accusleep/data/Mouse05/Day3/EEG.mat
+labels
+     4
+
+signal
+    16
+
+labels
+     4
+
+signal
+     4
+
+Creating images for recording 15
