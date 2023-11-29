@@ -1,0 +1,47 @@
+Loaded module: matlab/R2022a
+                 randomInteger = randi([1, length(eeg_path]);
+                                                          |
+{Invalid expression. When calling a function or indexing a variable, use
+parentheses. Otherwise, check for mismatched delimiters.
+} 
+{Undefined function 'subf' for input arguments of type 'double'.
+} 
+{Unrecognized function or variable 'subf'.
+} 
+{Unrecognized function or variable 'subf'.
+} 
+             else
+             |
+{Error: Illegal use of reserved keyword "else".
+} 
+{Unrecognized function or variable 'subf'.
+} 
+{Unrecognized function or variable 'subf'.
+} 
+{Unrecognized function or variable 'subf'.
+} 
+             end 
+             |
+{Error: Illegal use of reserved keyword "end".
+} 
+{Unrecognized function or variable 'k'.
+} 
+{Unrecognized function or variable 'k'.
+} 
+{Unrecognized function or variable 'temp2'.
+} 
+         end
+         |
+{Error: Illegal use of reserved keyword "end".
+} 
+     end 
+     |
+{Error: Illegal use of reserved keyword "end".
+} 
+{Error using save
+Must be a text scalar.
+} 
+ end
+ |
+{Error: Illegal use of reserved keyword "end".
+} 

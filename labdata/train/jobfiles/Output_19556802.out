@@ -1,0 +1,180 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022a (9.12.0.1884302) 64-bit (glnxa64)
+                             February 16, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> length of filelist
+   140
+
+Antoine-cleaned-data/
+MB09_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB09_Dark/EEG*.mat
+MB09_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB09_Light/EEG*.mat
+MB12_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB12_Dark/EEG*.mat
+MB12_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB12_Light/EEG*.mat
+MB13_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB13_Dark/EEG*.mat
+MB13_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB13_Light/EEG*.mat
+MB16_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB16_Dark/EEG*.mat
+MB16_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB16_Light/EEG*.mat
+MB18_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB18_Dark/EEG*.mat
+MB18_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB18_Light/EEG*.mat
+MB19_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB19_Dark/EEG*.mat
+MB19_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB19_Light/EEG*.mat
+MB20_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB20_Dark/EEG*.mat
+MB20_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB20_Light/EEG*.mat
+MB21_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB21_Dark/EEG*.mat
+MB21_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB21_Light/EEG*.mat
+MB22_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB22_Dark/EEG*.mat
+MB22_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB22_Light/EEG*.mat
+MB23_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB23_Dark/EEG*.mat
+MB23_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB23_Light/EEG*.mat
+MB24_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB24_Dark/EEG*.mat
+MB24_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB24_Light/EEG*.mat
+MB25_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB25_Dark/EEG*.mat
+MB25_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB25_Light/EEG*.mat
+MB27_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB27_Dark/EEG*.mat
+MB27_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB27_Light/EEG*.mat
+MB33_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB33_Dark/EEG*.mat
+MB33_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB33_Light/EEG*.mat
+MB34_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB34_Dark/EEG*.mat
+MB34_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB34_Light/EEG*.mat
+MB35_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB35_Dark/EEG*.mat
+MB35_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB35_Light/EEG*.mat
+MB36_Dark
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB36_Dark/EEG*.mat
+MB36_Light
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB36_Light/EEG*.mat
+length of filelist
+   116
+
+Alessandro-cleaned-data/
+W105 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W105 3/EEG*.mat
+W106 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W106 2/EEG*.mat
+W107 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W107 2/EEG*.mat
+W109 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W109 2/EEG*.mat
+W111 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W111 2/EEG*.mat
+W112 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W112 3/EEG*.mat
+W116 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W116 2/EEG*.mat
+W122 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W122 2/EEG*.mat
+W123 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W123 2/EEG*.mat
+W124 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W124 2/EEG*.mat
+length of filelist
+    95
+
+Alessandro-cleaned-data/
+W105 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W105 3/EEG*.mat
+W106 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W106 2/EEG*.mat
+W107 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W107 2/EEG*.mat
+W109 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W109 2/EEG*.mat
+W111 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W111 2/EEG*.mat
+W112 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W112 3/EEG*.mat
+W116 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W116 2/EEG*.mat
+W122 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W122 2/EEG*.mat
+W123 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W123 2/EEG*.mat
+W124 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W124 2/EEG*.mat
+length of filelist
+   117
+
+Alessandro-cleaned-data/
+W105 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W105 3/EEG*.mat
+W106 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W106 2/EEG*.mat
+W107 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W107 2/EEG*.mat
+W109 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W109 2/EEG*.mat
+W111 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W111 2/EEG*.mat
+W112 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W112 3/EEG*.mat
+W116 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W116 2/EEG*.mat
+W122 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W122 2/EEG*.mat
+W123 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W123 2/EEG*.mat
+W124 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W124 2/EEG*.mat
+length of filelist
+   132
+
+Alessandro-cleaned-data/
+W105 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W105 3/EEG*.mat
+W106 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W106 2/EEG*.mat
+W107 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W107 2/EEG*.mat
+W109 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W109 2/EEG*.mat
+W111 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W111 2/EEG*.mat
+W112 3
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W112 3/EEG*.mat
+W116 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W116 2/EEG*.mat
+W122 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W122 2/EEG*.mat
+W123 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W123 2/EEG*.mat
+W124 2
+/work3/laurose/accusleep/labdata/data/Alessandro-cleaned-data/W124 2/EEG*.mat
+>> >> 

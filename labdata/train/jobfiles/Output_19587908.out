@@ -1,0 +1,496 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022a (9.12.0.1884302) 64-bit (glnxa64)
+                             February 16, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> /zhome/dd/4/109414/Validationstudy/accusleep/labdata/train/filelist/fileList_Alessandro.mat
+Processing 140 files (this may take a while)
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB09_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 1
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB09_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 2
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB12_Dark/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 3
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB12_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 4
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB13_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 5
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB13_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 6
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB16_Dark/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 7
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB16_Light/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 8
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB18_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 9
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB18_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 10
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB19_Dark/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 11
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB19_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 12
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB20_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 13
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB20_Light/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 14
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB21_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 15
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB21_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 16
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB22_Dark/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 17
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB22_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 18
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB23_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 19
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB23_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 20
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB24_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 21
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB24_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 22
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB25_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 23
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB25_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 24
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB27_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 25
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB27_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 26
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB33_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 27
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB33_Light/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 28
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB34_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 29
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB34_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 30
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB35_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 31
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB35_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 32
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB36_Dark/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 33
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB36_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 34
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M16-b2-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 35
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M16-b3-Louise/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 36
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M18-b2-Louise/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 37
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M18-b3-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 38
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M20-b3-Louise/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 39
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M23-b1-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 40
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M23-b2-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 41
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M23-b3-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 42
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M29-b1-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 43
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M29-b2-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 44
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M29-b3-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 45
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M309-b1-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 46
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M313-b1-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 47
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M48-b1-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 48
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M48-b2-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 49
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M48-b3-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 50
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M52-b1-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 51
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M52-b2-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 52
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M52-b3-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 53
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M58-b1-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 54
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M58-b2-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 55
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M58-b3-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 56
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m1-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 57
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m11-b1-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 58
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m12-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 59
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m121-b1-Maria/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 60
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m121-b2-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 61
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m13-b1-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 62
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m14-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 63
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m14-r3-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 64
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m15-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 65
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m15-r3-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 66
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m2-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 67
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m2-b1-Marieke/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 68
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m21-b1-Marieke/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 69

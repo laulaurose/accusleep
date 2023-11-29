@@ -1,0 +1,1260 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+                  R2022a (9.12.0.1884302) 64-bit (glnxa64)
+                             February 16, 2022
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> /zhome/dd/4/109414/Validationstudy/accusleep/labdata/train/filelist/fileList_Alessandro.mat
+Processing 140 files (this may take a while)
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB09_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 1
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB09_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 2
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB12_Dark/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 3
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB12_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 4
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB13_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 5
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB13_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 6
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB16_Dark/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 7
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB16_Light/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 8
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB18_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 9
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB18_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 10
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB19_Dark/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 11
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB19_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 12
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB20_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 13
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB20_Light/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 14
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB21_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 15
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB21_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 16
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB22_Dark/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 17
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB22_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 18
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB23_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 19
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB23_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 20
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB24_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 21
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB24_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 22
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB25_Dark/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 23
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB25_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 24
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB27_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 25
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB27_Light/EEG4.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 26
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB33_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 27
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB33_Light/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 28
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB34_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 29
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB34_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 30
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB35_Dark/EEG3.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 31
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB35_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 32
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB36_Dark/EEG2.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 33
+/work3/laurose/accusleep/labdata/data/Antoine-cleaned-data/MB36_Light/EEG1.mat
+
+ans = 
+
+    "Antoine-cleaned-data"
+
+Creating images for recording 34
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M16-b2-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 35
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M16-b3-Louise/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 36
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M18-b2-Louise/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 37
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M18-b3-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 38
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M20-b3-Louise/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 39
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M23-b1-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 40
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M23-b2-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 41
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M23-b3-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 42
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M29-b1-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 43
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M29-b2-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 44
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M29-b3-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 45
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M309-b1-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 46
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M313-b1-Louise/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 47
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M48-b1-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 48
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M48-b2-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 49
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M48-b3-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 50
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M52-b1-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 51
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M52-b2-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 52
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M52-b3-ALEXANDRA/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 53
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M58-b1-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 54
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M58-b2-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 55
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/M58-b3-ALEXANDRA/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 56
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m1-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 57
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m11-b1-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 58
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m12-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 59
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m121-b1-Maria/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 60
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m121-b2-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 61
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m13-b1-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 62
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m14-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 63
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m14-r3-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 64
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m15-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 65
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m15-r3-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 66
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m2-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 67
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m2-b1-Marieke/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 68
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m21-b1-Marieke/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 69
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m3-b1-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 70
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m4-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 71
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m5-b1-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 72
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m6-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 73
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m6-r3-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 74
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m61-b1-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 75
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m61-b2-Maria/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 76
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m63-b1-Maria/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 77
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m63-b2-Maria/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 78
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m7-b1-CH/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 79
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m8-b1-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 80
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m8-r3-CH/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 81
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m86-b1-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 82
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m86-b2-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 83
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m88-b1-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 84
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m88-b2-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 85
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m94-b1-Maria/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 86
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m94-b2-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 87
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m96-b1-Maria/EEG2.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 88
+/work3/laurose/accusleep/labdata/data/Kornum-cleaned-data_v2/m96-b2-Maria/EEG1.mat
+
+ans = 
+
+    "Kornum-cleaned-data_v2"
+
+Creating images for recording 89
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Anastacia_1_NEGlu_2022-04-25_18-51-50-533/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 90
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Anastacia_20220426_5_NEGlu_2022-04-26_18-41-43-758/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 91
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Anastacia_20220428_15_NEGlu_2022-04-28_18-58-05-871/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 92
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Anastacia_20220601_GABANE_3_2022-06-01_19-03-16-213/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 93
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Anastacia_20220602_NEGABA_7_2022-06-02_19-25-14-792/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 94
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Anastacia_20220602_NEGABA_9_2022-06-02_19-25-14-792/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 95
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Anastacia_3_NEGlu_2022-04-25_18-51-50-533/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 96
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE1_baseline2_2022-01-12_14-25-48-744/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 97
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE1_baseline2_2022-01-12_14-57-44-896/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 98
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE2_baseline2_2022-01-12_17-58-52-546/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 99
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE2_baseline2_2022-01-12_18-29-51-468/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 100
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE4_baseline_2022-03-18_10-19-36-906/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 101
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE4_baseline_2022-03-18_11-05-23-001/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 102
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE4_baseline_2022-03-18_11-47-52-022/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 103
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE4_baseline_2022-03-18_12-34-25-861/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 104
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Frikke_1_NE5_baseline_2022-03-18_18-45-28-240/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 105
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_237_1s_EEG_FP_237_2020-01-16_13-48-05-051/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 106
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_241_1s_241_tripleFP_2020-01-21_10-41-23-366/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 107
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_243_1s_243_tripleFP_2020-01-23_09-26-17-292/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 108
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_307_1s_EEG_FP_307_LC_NE_As_2020-06-26_10-50-30-759/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 109
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_319_1s_EEG_FP_319_LC_NE_As_2020-06-22_12-20-58-132/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 110
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_323_1s_EEG_FP_323_LC_NE_As_2020-06-25_10-19-40-902/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 111
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_329_1s_EEG_FP_329_LC_NE_As_2020-06-24_12-10-50-528/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 112
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Mie_331_1s_EEG_FP_331_LC_NE_As_2020-06-24_09-33-10-486/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 113
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220228_007_EEG_EMG_take2_2022-02-28_14-45-39-008/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 114
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220301_001_2022-03-01_09-32-35-944/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 115
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220301_001_box3_2022-03-01_14-31-51-637/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 116
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220302_005_2022-03-02_09-17-13-108/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 117
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220706_5HT_007_2022-07-06_13-42-17-994/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 118
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220707_5HT_009_final_take_2022-07-08_13-13-29-852/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 119
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220712_His_019_2022-07-12_09-36-16-398/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 120
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_1_20220714_His_025_2022-07-14_13-08-20-709/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 121
+/work3/laurose/accusleep/labdata/data/Maiken-cleaned-data/Tessa_2_20220704_5HT_001_2022-07-04_09-49-50-767/EEG1.mat
+
+ans = 
+
+    "Maiken-cleaned-data"
+
+Creating images for recording 122
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(1)_ST1_2015-09-19_08-00-00-151/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 123
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(10)_NeuroMel1_2020-12-13_19-00-00-131/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 124
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(11)_NeuroMel13_2021-05-09_07-00-00-094/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 125
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(12)_NeuroMel13_2021-05-09_19-00-00-085/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 126
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(13)_NeuroMel14_2019-12-08_07-00-00-071/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 127
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(14)_NeuroMel14_2019-12-08_19-00-00-131/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 128
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(15)_NeuroMel14_2020-10-24_07-00-00-153/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 129
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(16)_NeuroMel14_2020-10-24_19-00-00-563/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 130
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(17)_NeuroMel14_2021-05-16_07-00-00-100/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 131
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(18)_NeuroMel14_2021-05-16_19-00-00-105/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 132
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(2)_ST1_2015-09-19_20-00-00-088/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 133
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(3)_ST4_2015-11-22_08-00-00-027/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 134
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(4)_ST4_2015-11-22_20-00-00-455/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 135
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(5)_ST13_2016-03-31_08-00-00-150/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 136
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(6)_ST13_2016-03-31_20-00-00-294/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 137
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(7)_NeuroMel1_2019-11-17_07-00-00-618/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 138
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(8)_NeuroMel1_2019-11-17_19-00-00-027/EEG2.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 139
+/work3/laurose/accusleep/labdata/data/Sebastian-cleaned-data/(9)_NeuroMel1_2020-12-13_07-00-00-082/EEG1.mat
+
+ans = 
+
+    "Sebastian-cleaned-data"
+
+Creating images for recording 140
+Balancing classes
+       84418      688135      564538
+
+Training network
+Training on single CPU.
+Initializing input data normalization.
+|======================================================================================================================|
+|  Epoch  |  Iteration  |  Time Elapsed  |  Mini-batch  |  Validation  |  Mini-batch  |  Validation  |  Base Learning  |
+|         |             |   (hh:mm:ss)   |   Accuracy   |   Accuracy   |     Loss     |     Loss     |      Rate       |
+|======================================================================================================================|
+|       1 |           1 |       01:08:20 |       33.59% |       47.20% |       1.3000 |       1.6743 |          0.0150 |
+|       1 |          50 |       01:09:11 |       90.23% |              |       0.2932 |              |          0.0150 |
+|       1 |         100 |       01:10:04 |       86.33% |              |       0.3422 |              |          0.0150 |
+|       1 |         150 |       01:10:58 |       88.67% |              |       0.2760 |              |          0.0150 |
+|       1 |         200 |       01:41:01 |       90.62% |       90.25% |       0.2618 |       0.2724 |          0.0150 |
+|       1 |         250 |       01:42:02 |       86.33% |              |       0.2800 |              |          0.0150 |
+|       1 |         300 |       01:43:00 |       87.89% |              |       0.2858 |              |          0.0150 |
+|       1 |         350 |       01:43:57 |       89.06% |              |       0.3419 |              |          0.0150 |
+|       1 |         400 |       02:11:04 |       94.92% |       91.14% |       0.1534 |       0.2470 |          0.0150 |
+|       1 |         450 |       02:12:17 |       88.67% |              |       0.2993 |              |          0.0150 |
+|       1 |         500 |       02:13:35 |       91.02% |              |       0.2509 |              |          0.0150 |
+|       1 |         550 |       02:14:49 |       92.19% |              |       0.2353 |              |          0.0150 |
+|       1 |         600 |       02:41:19 |       91.41% |       91.58% |       0.2648 |       0.2390 |          0.0150 |
+|       1 |         650 |       02:42:36 |       91.41% |              |       0.2127 |              |          0.0150 |
+|       1 |         700 |       02:43:51 |       90.62% |              |       0.2693 |              |          0.0150 |
+|       1 |         750 |       02:45:18 |       90.62% |              |       0.2602 |              |          0.0150 |
+|       1 |         800 |       03:14:43 |       92.19% |       91.93% |       0.2211 |       0.2240 |          0.0150 |
+|       1 |         850 |       03:16:14 |       93.36% |              |       0.1760 |              |          0.0150 |
+|       1 |         900 |       03:17:45 |       91.41% |              |       0.2435 |              |          0.0150 |
+|       1 |         950 |       03:19:22 |       94.53% |              |       0.1645 |              |          0.0150 |
+|       1 |        1000 |       04:02:46 |       91.02% |       91.87% |       0.2580 |       0.2248 |          0.0150 |
+|       1 |        1050 |       04:04:14 |       92.58% |              |       0.1932 |              |          0.0150 |
+|       1 |        1100 |       04:05:42 |       94.53% |              |       0.1976 |              |          0.0150 |
+|       1 |        1150 |       04:07:12 |       89.45% |              |       0.2721 |              |          0.0150 |
+|       1 |        1200 |       04:42:30 |       89.84% |       91.91% |       0.2497 |       0.2249 |          0.0150 |
+|       1 |        1250 |       04:44:09 |       94.92% |              |       0.1681 |              |          0.0150 |
+|       1 |        1300 |       04:45:46 |       92.58% |              |       0.1800 |              |          0.0150 |
+|       1 |        1350 |       04:47:19 |       92.58% |              |       0.1982 |              |          0.0150 |
+|       1 |        1400 |       05:12:20 |       94.14% |       92.25% |       0.1387 |       0.2135 |          0.0150 |
+|       1 |        1450 |       05:13:51 |       92.19% |              |       0.2394 |              |          0.0150 |
+|       1 |        1500 |       05:15:22 |       95.70% |              |       0.1439 |              |          0.0150 |
+|       1 |        1550 |       05:16:56 |       94.53% |              |       0.1627 |              |          0.0150 |
+|       1 |        1600 |       05:41:43 |       94.92% |       92.45% |       0.1539 |       0.2065 |          0.0150 |
+|       1 |        1650 |       05:43:14 |       91.41% |              |       0.2233 |              |          0.0150 |
+|       1 |        1700 |       05:44:52 |       91.80% |              |       0.1859 |              |          0.0150 |
+|       1 |        1750 |       05:46:32 |       92.19% |              |       0.1908 |              |          0.0150 |
+|       1 |        1800 |       06:11:19 |       93.36% |       92.48% |       0.1794 |       0.2062 |          0.0150 |
+|       1 |        1850 |       06:12:59 |       90.23% |              |       0.2557 |              |          0.0150 |
+|       1 |        1900 |       06:14:31 |       89.06% |              |       0.2734 |              |          0.0150 |
+|       1 |        1950 |       06:16:07 |       91.80% |              |       0.1956 |              |          0.0150 |
+|       1 |        2000 |       06:43:32 |       89.84% |       92.55% |       0.2260 |       0.2064 |          0.0150 |
+|       1 |        2050 |       06:45:09 |       91.41% |              |       0.2184 |              |          0.0150 |
+|       1 |        2100 |       06:46:45 |       91.02% |              |       0.2452 |              |          0.0150 |
+|       1 |        2150 |       06:48:28 |       93.36% |              |       0.1668 |              |          0.0150 |
+|       1 |        2200 |       07:20:23 |       93.36% |       92.73% |       0.1913 |       0.2009 |          0.0150 |
+|       1 |        2250 |       07:22:07 |       91.80% |              |       0.2200 |              |          0.0150 |
+|       1 |        2300 |       07:23:50 |       92.19% |              |       0.1892 |              |          0.0150 |
+|       1 |        2350 |       07:25:41 |       92.19% |              |       0.2258 |              |          0.0150 |
+|       1 |        2400 |       07:57:14 |       90.62% |       92.68% |       0.2382 |       0.2023 |          0.0150 |
+|       1 |        2450 |       07:59:09 |       92.19% |              |       0.1635 |              |          0.0150 |
+|       1 |        2500 |       08:00:53 |       92.19% |              |       0.2309 |              |          0.0150 |
+|       1 |        2550 |       08:02:40 |       91.80% |              |       0.2170 |              |          0.0150 |
+|       1 |        2600 |       08:28:42 |       91.41% |       92.78% |       0.2317 |       0.1997 |          0.0150 |
+|       1 |        2650 |       08:30:29 |       93.75% |              |       0.1718 |              |          0.0150 |
+|       1 |        2700 |       08:32:13 |       92.97% |              |       0.1885 |              |          0.0150 |
+|       1 |        2750 |       08:33:47 |       92.19% |              |       0.2169 |              |          0.0150 |
+|       1 |        2800 |       08:58:47 |       93.36% |       92.88% |       0.1662 |       0.1955 |          0.0150 |
+|       1 |        2850 |       09:00:27 |       92.19% |              |       0.2377 |              |          0.0150 |
+|       1 |        2900 |       09:02:10 |       92.58% |              |       0.1461 |              |          0.0150 |
+|       1 |        2950 |       09:03:48 |       90.62% |              |       0.2794 |              |          0.0150 |
+|       1 |        3000 |       09:29:22 |       91.02% |       92.77% |       0.2847 |       0.1973 |          0.0150 |
+|       1 |        3050 |       09:31:05 |       94.14% |              |       0.1866 |              |          0.0150 |
+|       1 |        3100 |       09:32:46 |       93.75% |              |       0.1582 |              |          0.0150 |
+|       1 |        3150 |       09:34:33 |       93.36% |              |       0.1967 |              |          0.0150 |
+|       1 |        3200 |       10:03:35 |       92.97% |       92.81% |       0.2044 |       0.1962 |          0.0150 |
+|       1 |        3250 |       10:05:16 |       94.14% |              |       0.1370 |              |          0.0150 |
+|       1 |        3300 |       10:07:13 |       91.02% |              |       0.2319 |              |          0.0150 |
+|       1 |        3350 |       10:09:12 |       91.41% |              |       0.2447 |              |          0.0150 |
+|       1 |        3400 |       10:41:06 |       91.41% |       92.99% |       0.2685 |       0.1965 |          0.0150 |
+|       1 |        3450 |       10:42:56 |       93.36% |              |       0.2007 |              |          0.0150 |
+|       1 |        3500 |       10:44:37 |       94.53% |              |       0.1652 |              |          0.0150 |
+|       1 |        3550 |       10:46:18 |       94.92% |              |       0.1887 |              |          0.0150 |
+|       1 |        3600 |       11:14:43 |       92.97% |       93.03% |       0.1892 |       0.1910 |          0.0150 |
+|       1 |        3650 |       11:16:46 |       93.36% |              |       0.1981 |              |          0.0150 |
+|       1 |        3700 |       11:18:34 |       95.31% |              |       0.1447 |              |          0.0150 |
+|       1 |        3750 |       11:20:26 |       94.53% |              |       0.1554 |              |          0.0150 |
+|       1 |        3800 |       11:48:31 |       93.75% |       93.18% |       0.1988 |       0.1886 |          0.0150 |
+|       2 |        3850 |       11:50:14 |       94.14% |              |       0.1673 |              |          0.0127 |
+|       2 |        3900 |       11:51:23 |       96.88% |              |       0.1022 |              |          0.0127 |
+|       2 |        3950 |       11:52:26 |       92.97% |              |       0.1863 |              |          0.0127 |
+|       2 |        4000 |       12:21:26 |       94.92% |       93.20% |       0.1460 |       0.1877 |          0.0127 |
+|       2 |        4050 |       12:22:28 |       94.92% |              |       0.1304 |              |          0.0127 |
+|       2 |        4100 |       12:23:29 |       93.36% |              |       0.1679 |              |          0.0127 |
+|       2 |        4150 |       12:24:31 |       94.92% |              |       0.1568 |              |          0.0127 |
+|       2 |        4200 |       12:55:03 |       94.14% |       93.32% |       0.1767 |       0.1861 |          0.0127 |
+|       2 |        4250 |       12:56:05 |       92.97% |              |       0.1706 |              |          0.0127 |
+|       2 |        4300 |       12:57:10 |       91.80% |              |       0.2229 |              |          0.0127 |
+|       2 |        4350 |       12:58:11 |       92.97% |              |       0.2026 |              |          0.0127 |
+|       2 |        4400 |       13:23:35 |       94.92% |       93.21% |       0.1433 |       0.1866 |          0.0127 |
+|       2 |        4450 |       13:24:38 |       92.19% |              |       0.2031 |              |          0.0127 |
+|       2 |        4500 |       13:25:35 |       89.84% |              |       0.2659 |              |          0.0127 |
+|       2 |        4550 |       13:26:34 |       94.53% |              |       0.1360 |              |          0.0127 |
+|       2 |        4600 |       13:51:17 |       94.92% |       93.40% |       0.1362 |       0.1844 |          0.0127 |
+|       2 |        4650 |       13:52:29 |       90.23% |              |       0.2765 |              |          0.0127 |
+|       2 |        4700 |       13:53:37 |       91.80% |              |       0.2373 |              |          0.0127 |
+|       2 |        4750 |       13:54:38 |       91.80% |              |       0.2466 |              |          0.0127 |
+|       2 |        4800 |       14:21:58 |       94.92% |       93.26% |       0.1715 |       0.1854 |          0.0127 |
+|       2 |        4850 |       14:23:05 |       92.19% |              |       0.2166 |              |          0.0127 |
+|       2 |        4900 |       14:24:10 |       91.80% |              |       0.2070 |              |          0.0127 |
+|       2 |        4950 |       14:25:18 |       90.62% |              |       0.2393 |              |          0.0127 |
+|       2 |        5000 |       14:56:31 |       94.53% |       93.47% |       0.1363 |       0.1827 |          0.0127 |
+|       2 |        5050 |       14:57:39 |       92.19% |              |       0.2204 |              |          0.0127 |
+|       2 |        5100 |       14:58:51 |       96.09% |              |       0.1234 |              |          0.0127 |
+|       2 |        5150 |       15:00:01 |       96.09% |              |       0.1434 |              |          0.0127 |
+|       2 |        5200 |       15:29:26 |       96.09% |       93.37% |       0.1170 |       0.1844 |          0.0127 |
+|       2 |        5250 |       15:30:42 |       94.53% |              |       0.1734 |              |          0.0127 |
+|       2 |        5300 |       15:31:55 |       92.97% |              |       0.2179 |              |          0.0127 |
+|       2 |        5350 |       15:33:05 |       92.97% |              |       0.2118 |              |          0.0127 |
+|       2 |        5400 |       15:59:42 |       92.19% |       92.79% |       0.1860 |       0.1930 |          0.0127 |
+|       2 |        5450 |       16:00:58 |       96.48% |              |       0.1077 |              |          0.0127 |
+|       2 |        5500 |       16:02:14 |       95.70% |              |       0.1410 |              |          0.0127 |
+|       2 |        5550 |       16:03:26 |       94.14% |              |       0.1770 |              |          0.0127 |
+|       2 |        5600 |       16:30:36 |       92.19% |       93.53% |       0.2419 |       0.1806 |          0.0127 |
+|       2 |        5650 |       16:31:47 |       92.19% |              |       0.2131 |              |          0.0127 |
+|       2 |        5700 |       16:32:55 |       94.92% |              |       0.1927 |              |          0.0127 |
+|       2 |        5750 |       16:33:58 |       94.53% |              |       0.1804 |              |          0.0127 |
+|       2 |        5800 |       17:03:25 |       91.80% |       93.26% |       0.2043 |       0.1854 |          0.0127 |
+|       2 |        5850 |       17:04:51 |       93.36% |              |       0.1634 |              |          0.0127 |
+|       2 |        5900 |       17:06:02 |       92.19% |              |       0.2249 |              |          0.0127 |
+|       2 |        5950 |       17:07:16 |       94.53% |              |       0.1724 |              |          0.0127 |
+|       2 |        6000 |       17:36:39 |       93.75% |       93.50% |       0.1961 |       0.1828 |          0.0127 |
+|       2 |        6050 |       17:37:55 |       94.53% |              |       0.1409 |              |          0.0127 |
+|       2 |        6100 |       17:39:11 |       91.80% |              |       0.1977 |              |          0.0127 |
+|       2 |        6150 |       17:40:34 |       93.36% |              |       0.2015 |              |          0.0127 |
+|       2 |        6200 |       18:08:42 |       87.89% |       93.28% |       0.3047 |       0.1848 |          0.0127 |
+|       2 |        6250 |       18:10:07 |       92.19% |              |       0.1682 |              |          0.0127 |
+|       2 |        6300 |       18:11:18 |       95.70% |              |       0.1554 |              |          0.0127 |
+|       2 |        6350 |       18:12:38 |       90.62% |              |       0.2015 |              |          0.0127 |
+|       2 |        6400 |       18:38:57 |       96.48% |       93.36% |       0.1007 |       0.1827 |          0.0127 |
+|       2 |        6450 |       18:40:00 |       94.53% |              |       0.1382 |              |          0.0127 |
+|       2 |        6500 |       18:41:08 |       94.53% |              |       0.1562 |              |          0.0127 |
+|       2 |        6550 |       18:42:14 |       92.97% |              |       0.1749 |              |          0.0127 |
+|       2 |        6600 |       19:07:40 |       93.36% |       93.68% |       0.1689 |       0.1763 |          0.0127 |
+|       2 |        6650 |       19:08:45 |       92.19% |              |       0.2191 |              |          0.0127 |
+|       2 |        6700 |       19:09:51 |       91.41% |              |       0.2247 |              |          0.0127 |
+|       2 |        6750 |       19:10:50 |       93.75% |              |       0.1594 |              |          0.0127 |
+|       2 |        6800 |       19:36:51 |       91.41% |       93.62% |       0.2233 |       0.1772 |          0.0127 |
+|       2 |        6850 |       19:37:57 |       93.36% |              |       0.2067 |              |          0.0127 |
+|       2 |        6900 |       19:38:59 |       95.70% |              |       0.1412 |              |          0.0127 |
+|       2 |        6950 |       19:40:02 |       94.53% |              |       0.1645 |              |          0.0127 |
+|       2 |        7000 |       20:05:34 |       94.92% |       93.46% |       0.1714 |       0.1790 |          0.0127 |
+|       2 |        7050 |       20:06:36 |       91.41% |              |       0.2144 |              |          0.0127 |
+|       2 |        7100 |       20:07:43 |       92.97% |              |       0.2297 |              |          0.0127 |
+|       2 |        7150 |       20:08:48 |       93.36% |              |       0.1891 |              |          0.0127 |
+|       2 |        7200 |       20:36:45 |       94.53% |       93.43% |       0.1415 |       0.1797 |          0.0127 |
+|       2 |        7250 |       20:37:54 |       94.14% |              |       0.1590 |              |          0.0127 |
+|       2 |        7300 |       20:39:12 |       92.97% |              |       0.1878 |              |          0.0127 |
+|       2 |        7350 |       20:40:23 |       90.23% |              |       0.2324 |              |          0.0127 |
+|       2 |        7400 |       21:07:53 |       94.14% |       93.67% |       0.1421 |       0.1777 |          0.0127 |
+|       2 |        7450 |       21:09:01 |       94.14% |              |       0.1361 |              |          0.0127 |
+|       2 |        7500 |       21:10:11 |       93.75% |              |       0.1456 |              |          0.0127 |
+|       2 |        7550 |       21:11:33 |       92.97% |              |       0.1614 |              |          0.0127 |
+|       2 |        7600 |       21:39:04 |       93.36% |       93.73% |       0.1638 |       0.1755 |          0.0127 |
+|       2 |        7650 |       21:40:23 |       95.70% |              |       0.1283 |              |          0.0127 |
+|       3 |        7700 |       21:41:30 |       94.92% |              |       0.1344 |              |          0.0108 |
+|       3 |        7750 |       21:42:14 |       91.80% |              |       0.2125 |              |          0.0108 |
+|       3 |        7800 |       22:08:22 |       92.97% |       93.83% |       0.1645 |       0.1730 |          0.0108 |
+|       3 |        7850 |       22:09:11 |       94.53% |              |       0.1770 |              |          0.0108 |
+|       3 |        7900 |       22:09:59 |       95.31% |              |       0.1402 |              |          0.0108 |
+|       3 |        7950 |       22:10:48 |       95.31% |              |       0.1547 |              |          0.0108 |
+|       3 |        8000 |       22:37:29 |       91.02% |       93.79% |       0.2064 |       0.1746 |          0.0108 |
+|       3 |        8050 |       22:38:22 |       94.14% |              |       0.1852 |              |          0.0108 |
+|       3 |        8100 |       22:39:18 |       92.58% |              |       0.1943 |              |          0.0108 |
+|       3 |        8150 |       22:40:16 |       91.80% |              |       0.2025 |              |          0.0108 |
+|       3 |        8200 |       23:07:09 |       92.97% |       93.80% |       0.1561 |       0.1733 |          0.0108 |
+|       3 |        8250 |       23:07:53 |       92.97% |              |       0.1747 |              |          0.0108 |
+|       3 |        8300 |       23:08:38 |       96.09% |              |       0.1221 |              |          0.0108 |
+|       3 |        8350 |       23:09:23 |       92.58% |              |       0.2282 |              |          0.0108 |
+|       3 |        8400 |       23:35:52 |       92.97% |       93.72% |       0.2029 |       0.1746 |          0.0108 |
+|       3 |        8450 |       23:36:37 |       96.09% |              |       0.1278 |              |          0.0108 |
+|       3 |        8500 |       23:37:22 |       94.14% |              |       0.1543 |              |          0.0108 |
+|       3 |        8550 |       23:38:09 |       92.97% |              |       0.1954 |              |          0.0108 |
+|       3 |        8600 |       24:03:47 |       91.41% |       93.77% |       0.2024 |       0.1746 |          0.0108 |
+|       3 |        8650 |       24:04:34 |       95.31% |              |       0.1518 |              |          0.0108 |
+|       3 |        8700 |       24:05:25 |       92.19% |              |       0.2141 |              |          0.0108 |
+|       3 |        8750 |       24:06:14 |       96.09% |              |       0.1293 |              |          0.0108 |
+|       3 |        8800 |       24:31:10 |       92.19% |       93.88% |       0.1930 |       0.1720 |          0.0108 |
+|       3 |        8850 |       24:31:56 |       96.88% |              |       0.1324 |              |          0.0108 |
+|       3 |        8900 |       24:32:41 |       93.36% |              |       0.1575 |              |          0.0108 |
+|       3 |        8950 |       24:33:25 |       91.41% |              |       0.2441 |              |          0.0108 |
+|       3 |        9000 |       24:59:33 |       94.53% |       93.75% |       0.1462 |       0.1744 |          0.0108 |
+|       3 |        9050 |       25:00:36 |       94.14% |              |       0.1545 |              |          0.0108 |
+|       3 |        9100 |       25:01:33 |       93.36% |              |       0.1664 |              |          0.0108 |
+|       3 |        9150 |       25:02:31 |       94.92% |              |       0.1230 |              |          0.0108 |
+|       3 |        9200 |       25:30:14 |       94.14% |       93.87% |       0.1740 |       0.1701 |          0.0108 |
+|       3 |        9250 |       25:31:19 |       94.14% |              |       0.1607 |              |          0.0108 |
+|       3 |        9300 |       25:32:24 |       93.36% |              |       0.1831 |              |          0.0108 |
+|       3 |        9350 |       25:33:31 |       94.53% |              |       0.2011 |              |          0.0108 |
+|       3 |        9400 |       25:59:07 |       95.31% |       93.33% |       0.1493 |       0.1829 |          0.0108 |
+|       3 |        9450 |       26:00:36 |       96.09% |              |       0.1181 |              |          0.0108 |
+|       3 |        9500 |       26:01:53 |       94.92% |              |       0.1773 |              |          0.0108 |
+|       3 |        9550 |       26:03:17 |       95.31% |              |       0.1426 |              |          0.0108 |
+|       3 |        9600 |       26:29:32 |       93.36% |       93.90% |       0.1646 |       0.1703 |          0.0108 |
+|       3 |        9650 |       26:31:13 |       93.36% |              |       0.1789 |              |          0.0108 |
+|       3 |        9700 |       26:33:02 |       94.53% |              |       0.1456 |              |          0.0108 |
+|       3 |        9750 |       26:34:52 |       93.36% |              |       0.1512 |              |          0.0108 |
+|       3 |        9800 |       27:03:14 |       93.36% |       93.69% |       0.1857 |       0.1740 |          0.0108 |
+|       3 |        9850 |       27:05:48 |       91.41% |              |       0.2080 |              |          0.0108 |
+|       3 |        9900 |       27:08:21 |       90.62% |              |       0.2440 |              |          0.0108 |
+|       3 |        9950 |       27:10:57 |       94.53% |              |       0.1622 |              |          0.0108 |
+|       3 |       10000 |       27:40:16 |       93.36% |       93.87% |       0.1897 |       0.1721 |          0.0108 |
+|       3 |       10050 |       27:44:12 |       94.14% |              |       0.1680 |              |          0.0108 |
+|       3 |       10100 |       27:47:56 |       95.31% |              |       0.1267 |              |          0.0108 |
+|       3 |       10150 |       27:51:54 |       92.97% |              |       0.1487 |              |          0.0108 |
+|       3 |       10200 |       28:23:57 |       92.97% |       93.94% |       0.1699 |       0.1691 |          0.0108 |
+|       3 |       10250 |       28:29:29 |       91.80% |              |       0.2299 |              |          0.0108 |
+|       3 |       10300 |       28:35:12 |       94.92% |              |       0.1644 |              |          0.0108 |
+|       3 |       10350 |       28:40:47 |       91.02% |              |       0.2089 |              |          0.0108 |
+|       3 |       10400 |       29:16:16 |       92.58% |       93.94% |       0.2319 |       0.1696 |          0.0108 |
+|       3 |       10450 |       29:22:54 |       96.09% |              |       0.1246 |              |          0.0108 |
+|       3 |       10500 |       29:29:46 |       94.53% |              |       0.1274 |              |          0.0108 |
+|       3 |       10550 |       29:36:40 |       92.97% |              |       0.1986 |              |          0.0108 |
+|       3 |       10600 |       30:12:42 |       92.58% |       93.84% |       0.1882 |       0.1711 |          0.0108 |
+|       3 |       10650 |       30:19:58 |       92.97% |              |       0.1834 |              |          0.0108 |
+|       3 |       10700 |       30:27:06 |       92.19% |              |       0.1913 |              |          0.0108 |
+|       3 |       10750 |       30:34:02 |       96.48% |              |       0.1180 |              |          0.0108 |
+|       3 |       10800 |       31:10:41 |       93.75% |       93.87% |       0.1882 |       0.1730 |          0.0108 |
+|       3 |       10850 |       31:18:05 |       93.36% |              |       0.2008 |              |          0.0108 |
+|       3 |       10900 |       31:25:00 |       95.31% |              |       0.1541 |              |          0.0108 |
+|       3 |       10950 |       31:32:01 |       93.36% |              |       0.1765 |              |          0.0108 |
+|       3 |       11000 |       32:06:08 |       94.53% |       93.83% |       0.1702 |       0.1721 |          0.0108 |
+|       3 |       11050 |       32:13:43 |       92.19% |              |       0.2620 |              |          0.0108 |
+|       3 |       11100 |       32:21:46 |       94.92% |              |       0.1814 |              |          0.0108 |
+|       3 |       11150 |       32:29:27 |       92.97% |              |       0.1684 |              |          0.0108 |
+|       3 |       11200 |       33:04:23 |       91.80% |       93.99% |       0.2007 |       0.1689 |          0.0108 |
+|       3 |       11250 |       33:11:01 |       93.36% |              |       0.1337 |              |          0.0108 |
+|       3 |       11300 |       33:17:05 |       94.92% |              |       0.1340 |              |          0.0108 |
+|       3 |       11350 |       33:23:07 |       91.80% |              |       0.2142 |              |          0.0108 |
+|       3 |       11400 |       33:53:50 |       92.58% |       93.88% |       0.2066 |       0.1702 |          0.0108 |
+|       3 |       11450 |       33:58:33 |       96.09% |              |       0.1743 |              |          0.0108 |
+|       3 |       11500 |       34:03:12 |       94.53% |              |       0.1349 |              |          0.0108 |
+|       4 |       11550 |       34:06:03 |       91.80% |              |       0.2182 |              |          0.0092 |
+|       4 |       11600 |       34:33:51 |       96.09% |       93.81% |       0.1299 |       0.1703 |          0.0092 |
+|       4 |       11650 |       34:35:35 |       96.09% |              |       0.1220 |              |          0.0092 |
+|       4 |       11700 |       34:37:19 |       93.36% |              |       0.2064 |              |          0.0092 |
+|       4 |       11750 |       34:39:02 |       92.19% |              |       0.1679 |              |          0.0092 |
+|       4 |       11800 |       35:06:54 |       94.92% |       94.02% |       0.1241 |       0.1678 |          0.0092 |
+|       4 |       11850 |       35:08:43 |       93.36% |              |       0.1585 |              |          0.0092 |
+|       4 |       11900 |       35:10:36 |       91.80% |              |       0.2569 |              |          0.0092 |
+|       4 |       11950 |       35:12:34 |       93.75% |              |       0.1537 |              |          0.0092 |
+|       4 |       12000 |       35:42:54 |       91.41% |       94.07% |       0.1897 |       0.1671 |          0.0092 |
+|       4 |       12050 |       35:45:04 |       95.70% |              |       0.1195 |              |          0.0092 |
+|       4 |       12100 |       35:47:24 |       94.92% |              |       0.1544 |              |          0.0092 |
+|       4 |       12150 |       35:49:35 |       94.92% |              |       0.1430 |              |          0.0092 |
+|       4 |       12200 |       36:18:41 |       92.58% |       94.01% |       0.2083 |       0.1671 |          0.0092 |
+|       4 |       12250 |       36:21:03 |       91.02% |              |       0.2582 |              |          0.0092 |
+|       4 |       12300 |       36:23:13 |       93.75% |              |       0.1893 |              |          0.0092 |
+|       4 |       12350 |       36:25:27 |       94.92% |              |       0.1570 |              |          0.0092 |
+|       4 |       12400 |       36:56:02 |       96.88% |       93.96% |       0.0982 |       0.1676 |          0.0092 |
+|       4 |       12450 |       36:58:39 |       96.88% |              |       0.0924 |              |          0.0092 |
+|       4 |       12500 |       37:01:04 |       96.48% |              |       0.1196 |              |          0.0092 |
+|       4 |       12550 |       37:03:30 |       95.31% |              |       0.1368 |              |          0.0092 |
+|       4 |       12600 |       37:36:51 |       94.92% |       93.96% |       0.1577 |       0.1680 |          0.0092 |
+|       4 |       12650 |       37:39:17 |       94.92% |              |       0.1201 |              |          0.0092 |
+|       4 |       12700 |       37:41:58 |       98.44% |              |       0.0836 |              |          0.0092 |
+
+>> 

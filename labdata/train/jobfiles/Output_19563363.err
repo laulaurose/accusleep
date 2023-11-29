@@ -1,0 +1,41 @@
+Loaded module: matlab/R2022a
+{Operation terminated by user during nnet.internal.cnnhost.convolveBackwardBias2D
+
+
+In nnet.internal.cnn.layer.util.Convolution2DHostStridedConvStrategy/backward (line 76)
+                dW{2} = nnet.internal.cnnhost.convolveBackwardBias2D(dZ);
+
+In nnet.internal.cnn.layer.Convolution2D/doBackward (line 649)
+            [varargout{1:nargout}] = this.ExecutionStrategy.backward( ...
+
+In nnet.internal.cnn.layer.Convolution2D/backwardNormal (line 611)
+            [varargout{1:nargout}] = this.doBackward(X, this.Weights.Value, dZ);
+
+In nnet.internal.cnn.layer.Convolution2D/backward (line 245)
+                [varargout{1:nargout}] = this.backwardNormal(X, [], dZ, []);
+
+In nnet.internal.cnn.DAGNetwork/computeGradientsForTraining/efficientBackProp (line 797)
+                        [dLossdX, dLossdW] = thisLayer.backward( backwardArgs{:} );
+
+In nnet.internal.cnn.util.executeWithStagedGPUOOMRecovery (line 11)
+        [ varargout{1:nOutputs} ] = computeFun(X1, X2);
+
+In nnet.internal.cnn.DAGNetwork/computeGradientsForTraining (line 856)
+                    theseGradients = nnet.internal.cnn.util.executeWithStagedGPUOOMRecovery( ...
+
+In nnet.internal.cnn.Trainer/computeGradients (line 227)
+            [gradients, predictions, states] = net.computeGradientsForTraining(X, Y, propagateState);
+
+In nnet.internal.cnn.Trainer/train (line 126)
+                    [gradients, Y, states] = this.computeGradients(net, X, T);
+
+In nnet.internal.cnn.trainNetwork.doTrainNetwork (line 113)
+trainedNet = trainer.train(trainedNet, trainingDispatcher);
+
+In trainNetwork (line 182)
+    [trainedNet, info] = nnet.internal.cnn.trainNetwork.doTrainNetwork(factory,varargin{:});
+
+In AccuSleep_train_v2 (line 305)
+[net, trainInfo] = trainNetwork(imdsTrain,layers,options);
+} 
+Terminated
