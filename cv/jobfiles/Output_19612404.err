@@ -5,20 +5,12 @@ Loaded module: matlab/R2022a
 In questdlg (line 430)
     uiwait(QuestFig);
 
-In AccuSleep_train>showError (line 315)
+In AccuSleep_train>showError (line 317)
 answer = questdlg([message,'Skip this recording, or quit?'], 'Error','Skip','Quit','Skip');
 
-In AccuSleep_train>checkFiles (line 308)
+In AccuSleep_train>checkFiles (line 310)
     looksGood = showError(['Recording ',num2str(i),' has EEG and label files of different lengths. ']);
 
-In AccuSleep_train (line 92)
+In AccuSleep_train (line 94)
     switch checkFiles(data, SR, epochLen, i)
-} 
- cted")
-     |
-{Error: String is not terminated properly.
-} 
- end 
- |
-{Error: Illegal use of reserved keyword "end".
 } 

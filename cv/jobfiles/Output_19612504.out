@@ -9,8 +9,13 @@ MATLAB is selecting SOFTWARE OPENGL rendering.
 To get started, type doc.
 For product information, visit www.mathworks.com.
  
->> >> >> >> >> >> >> >> >> >> >> Processing 40 files (this may take a while)
+>> >> >> >> >> >> >> >> >> >> >>      1
+
+Processing 40 files (this may take a while)
 /work3/laurose/accusleep/data/Mouse06/Day1/EEG.mat
+  struct with no fields.
+
+nothing
 [Warning: dialog is no longer supported when MATLAB is started with the
 -nodisplay or -noFigureWindows option or there is no display. For more
 information, see "Changes to -nodisplay and -noFigureWindows Startup Options"
@@ -20,9 +25,9 @@ run web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3',
 [> In warnfiguredialog (line 15)
 In dialog (line 42)
 In questdlg (line 169)
-In AccuSleep_train>showError (line 315)
-In AccuSleep_train>checkFiles (line 308)
-In AccuSleep_train (line 92)] 
+In AccuSleep_train>showError (line 317)
+In AccuSleep_train>checkFiles (line 310)
+In AccuSleep_train (line 94)] 
 [Warning: MATLAB has disabled some advanced graphics rendering features by
 switching to software OpenGL. For more information, click <a
 href="matlab:opengl('problems')">here</a>.] 
@@ -35,8 +40,8 @@ run web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3',
 [> In warnfiguredialog (line 15)
 In uiwait (line 40)
 In questdlg (line 430)
-In AccuSleep_train>showError (line 315)
-In AccuSleep_train>checkFiles (line 308)
-In AccuSleep_train (line 92)] 
+In AccuSleep_train>showError (line 317)
+In AccuSleep_train>checkFiles (line 310)
+In AccuSleep_train (line 94)] 
 
->> >> >> >> 
+>> 

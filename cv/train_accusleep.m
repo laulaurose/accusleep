@@ -5,7 +5,7 @@ I        = "/zhome/dd/4/109414/Validationstudy/accusleep/cv/";
 trainset = ["train_1fileList.mat","train_2fileList.mat","train_3fileList.mat","train_4fileList.mat","train_5fileList.mat"];
 testset  = ["test_1fileList.mat","test_2fileList.mat","test_3fileList.mat","test_4fileList.mat","test_5fileList.mat"];
 
-imageLocation = '/work3/laurose/accusleep/data_preprocessed/';
+%imageLocation = '/work3/laurose/accusleep/data_preprocessed/';
 addpath(genpath("/zhome/dd/4/109414/Validationstudy/accusleep"));
 addpath(genpath("/zhome/dd/4/109414/Validationstudy/accusleep/helper_files"));
 
@@ -15,7 +15,8 @@ for j = 1:5
     SR       = 512;
     epochLen = 4;
     epochs   = 9;
-    [net] = AccuSleep_train(fileList_train, SR, epochLen, epochs, imageLocation); 
+    disp(j)
+    [net] = AccuSleep_train(fileList_train, SR, epochLen, epochs); 
     save(strcat(I,"net_",num2str(j)), 'net');
     
     load(strcat(testset(j)))

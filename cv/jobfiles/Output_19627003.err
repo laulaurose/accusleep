@@ -1,0 +1,16 @@
+Loaded module: matlab/R2022a
+{Operation terminated by user during uiwait
+
+
+In questdlg (line 430)
+    uiwait(QuestFig);
+
+In AccuSleep_train>showError (line 319)
+% display an error message, and interpret the response
+
+In AccuSleep_train>checkFiles (line 312)
+end
+
+In AccuSleep_train (line 96)
+    switch checkFiles(data, SR, epochLen, i)
+} 
